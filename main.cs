@@ -22,7 +22,7 @@ class MainClass {
 
       if (monster.IsAlive() == false)
       {
-        Console.WriteLine("\n" + hero.name + " won the fight !");
+        Console.WriteLine("\n\n" + hero.name + " won the fight !");
       }
     }
   }
